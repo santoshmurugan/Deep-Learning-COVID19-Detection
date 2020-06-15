@@ -9,8 +9,8 @@ Ultimately, the AlexNet model produced the best results with an accuracy of 84.3
 ---------------------------------------------------------------------------------------------------------
 Usage: 
 
-main.py is the program which calls other modules for functionality. It can be run with the following command-line flags: <br \>
+main.py is the program which calls other modules for functionality. It can be run with the following command-line flags: <br />
 
---model: Specifies which model to be run. Options are alex-net/resnet/vgg/custom. Default is alex-net.<br \>
---epochs: Number of epochs to train the model. Default is 10.<br \>
---cpu: Boolean for whether to use CPU instead of GPU. Default is False.<br \>
+--model: Specifies which model to be run. Options are alex-net/resnet/vgg/custom. Default is alex-net.<br />
+--epochs: Number of epochs to train the model. Default is 10.<br />
+--cpu: Boolean for whether to use CPU instead of GPU. Default is False.<br />
