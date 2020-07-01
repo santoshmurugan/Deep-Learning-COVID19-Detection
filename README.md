@@ -1,4 +1,4 @@
-# BIOMEDIN260-FinalProject
+# Deep Learning for COVID19 Detection from Lung Scans
 
 We present a new opportunity to diagnose COVID computationally from lung scans. We used a publicly available dataset on Kaggle which contains a set of manually annotated lung CT scans with and without COVID-19. We built our predictive models using three well-known convolutional neural network architectures - AlexNet, VGG16, ResNet - and a custom architecture. Subsequently, we ensembled the models together for additional predictive power. 
 
